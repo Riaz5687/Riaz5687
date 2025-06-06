@@ -43,6 +43,8 @@ Currently pursuing my MSc in Artificial Intelligence at the **University of the 
 - 💼 [mindGigs](https://mindgigspk.com) – Job platform frontend with React & TypeScript  
 - 🔐 [ADS Guards](http://18.175.23.244) – Guard management system built with Next.js & Node.js  
 - 🌦 [ClimaJo](https://www.climajo.com) – Real-time climate platform using Next.js
+- 🧘‍♂️ [Snareobics](https://www.snareobics.com) - Snare techning technique platform using Next.js.  
+- 🔐 [Siguto](https://www.siguto.co.uk) - Get celebrity signature pfatform using React, Next.js, and TypeScript
 
 ---
 
